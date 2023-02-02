@@ -4,7 +4,7 @@ El alumno deberá crear un formulario para crear una cuenta ficticia de acceso a
 
 Se deberán tener en cuenta las siguientes validaciones:
 
-    -    El alumno deberá crear los estilos necesarios para los casos en los que las validaciones sean correctas (color verde) y para los casos en las que no lo sean (color rojo) de acuerdo con los siguientes ejemplos.
+    -   El alumno deberá crear los estilos necesarios para los casos en los que las validaciones sean correctas (color verde) y para los casos en las que no lo sean (color rojo) de acuerdo con los siguientes ejemplos.
 
     -   Todos los campos deberán ser obligatorios o de lo contrario tendremos un error.
 
